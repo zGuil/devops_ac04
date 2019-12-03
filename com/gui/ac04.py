@@ -3,6 +3,7 @@
 
 
 # Implemente abaixo a classe Elevador, conforme descrição no enunciado da AC04
+#test
 
 class Elevador:
     def __init__(self, capacidade, total_andares):
